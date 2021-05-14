@@ -1,5 +1,6 @@
 Transaction Date,Vendor,Product,Amount
 1/28/19,Microsoft,Office365,432854
+10/21/18,Google,Google Cloud,258276
 1/27/19,Adobe,Creative Cloud,98445
 1/24/19,Amazon,AWS,12443
 1/19/19,Microsoft,Azure,5332
@@ -9,3 +10,4 @@ Transaction Date,Vendor,Product,Amount
 11/24/18,Amazon,AWS,9322
 11/3/18,DocuSign,DocuSign,45221
 1/28/18,Microsoft,Office365,389777
+1/20/20,Google,Google Maps,3529
