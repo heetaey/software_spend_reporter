@@ -27,7 +27,7 @@ The input file is a comma separated values (CSV) file that contains a list of so
 
 ### Executing program
 
-* To run the program, type the code provided below with the proper file path name given on the Terminal/Bash
+* To run the program, navigate to the folder where the .py file is located. Type the code provided below with the proper file path name given on the Terminal/Bash
 ```
 python3 ./software_spend_reporter.py /path/to/inputfile.csv
 ```
