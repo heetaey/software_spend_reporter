@@ -69,3 +69,4 @@ if __name__ == "__main__":
     print()
     db = read_data(path)
     process_data(db)
+    print()
